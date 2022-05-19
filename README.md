@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shinie</h1>
 <h3 align="center">🦸🏻‍♂️ Nice to see you.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" />
+<p align="center"> <img alt="Coding" width="500" src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shinie19&label=Profile%20views&color=0e75b6&style=flat" alt="shinie19" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinie19&label=Profile%20views&color=0e75b6&style=flat" alt="shinie19" /> </p>
+<h3 align="left">Status:</h3>
 
 - 🔭 I’m currently working on **something cool 🤓**
 
