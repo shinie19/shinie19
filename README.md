@@ -7,7 +7,7 @@
 
 <h3 align="left">Status:</h3>
 
-- 🔭 I’m currently working on **something cool 🤓**
+- 🔭 I’m currently studying in **Hanoi University of Science - VNU**
 
 - 🌱 I’m currently learning **Web-app, Data and AI**
 
