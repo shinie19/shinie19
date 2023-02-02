@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **something cool 🤓**
 
-- 🌱 I’m currently learning **Web-app, AI and Blockchain**
+- 🌱 I’m currently learning **Web-app, Data and AI**
 
 - 💬 Ask me about **something related to Java/Javascript/TypeScript/Python**
 
